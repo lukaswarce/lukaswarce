@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-**lukaswarce/lukaswarce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently working on [harvita.ag](https://harvita.ag/) and [Allpa Tech](https://allpa.tech/).
 
-Here are some ideas to get you started:
+Regularly posting new articles on my [blog](https://lukaswarce.com/blog) about Programming and Lifestyle related topics.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
