@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Currently working as CTO at [Allpa Tech](https://allpa.tech/).
+Currently working as CEO at [Allpa Tech](https://allpa.tech/), and as Researcher in [University of Saskatchewan](https://research-groups.usask.ca/remote-presence/christian_spana)
 
 Regularly posting new articles on my [blog](https://lukaswarce.com/blog) about Programming and Lifestyle related topics.
 
