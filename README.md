@@ -9,6 +9,6 @@ Regularly posting new articles on my [blog](https://www.lukaswarce.com/category/
 - 👯 I’m looking to collaborate on Remote Presence, Virtual Care, AgTech, HIC, AI
 - 🤔 I’m looking for help with AI
 - 💬 Ask me about Blockchain, Cloud Computing and Cybersecurity.
-- 📫 How to reach me: www.lukawarce.com
+- 📫 How to reach me: [Lukaswarce](https://lukaswarce.com/) or  [Contact Me](mailto:me@lukaswarce.com)
 - 😄 Pronouns: Christian
 - ⚡ Fun fact: Videogames
