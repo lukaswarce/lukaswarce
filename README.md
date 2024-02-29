@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Currently working as CEO at [Allpa Tech](https://allpa.tech/).
+Currently working as CEO at [Allpa Tech](https://allpatech.com/).
 
 Regularly posting new articles on my [blog](https://www.lukaswarce.com/category/blog/) about Programming and Lifestyle related topics.
 
