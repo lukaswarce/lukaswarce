@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Currently working as CEO at [Allpa Tech](https://allpa.tech/), and as Researcher in [University of Saskatchewan](https://research-groups.usask.ca/remote-presence/christian_spana)
+Currently working as CEO at [Allpa Tech](https://allpa.tech/).
 
-Regularly posting new articles on my [blog](https://lukaswarce.com/blog) about Programming and Lifestyle related topics.
+Regularly posting new articles on my [blog](https://www.lukaswarce.com/category/blog/) about Programming and Lifestyle related topics.
 
 - 🔭 I’m currently working on AI for Health Tech, Agri Tech and IOT.
 - 🌱 I’m currently learning Polygon Ethereum
@@ -10,5 +10,5 @@ Regularly posting new articles on my [blog](https://lukaswarce.com/blog) about P
 - 🤔 I’m looking for help with AI
 - 💬 Ask me about Blockchain, Cloud Computing and Cybersecurity.
 - 📫 How to reach me: www.lukawarce.com
-- 😄 Pronouns: Christ
+- 😄 Pronouns: Christian
 - ⚡ Fun fact: Videogames
