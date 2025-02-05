@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Currently working as CEO at [Allpa Tech](https://allpatech.com/).
+Currently working as CEO at [Allpa Tech](https://allpatech.com/), and CTO at [Safe]([https://allpatech.com/](https://www.safemoneyapp.ca/))
 
 Regularly posting new articles on my [blog](https://www.lukaswarce.com/category/blog/) about Programming and Lifestyle related topics.
 
