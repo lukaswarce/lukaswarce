@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Currently working as CEO at [Allpa Tech](https://allpatech.com/), and CTO at [Safe](https://www.safemoneyapp.ca/)
+Currently working as CTO at [Allpa Technologies](https://allpatech.com/)
 
 Regularly posting new articles on my [blog](https://www.lukaswarce.com/category/blog/) about Programming and Lifestyle related topics.
 
@@ -9,6 +9,6 @@ Regularly posting new articles on my [blog](https://www.lukaswarce.com/category/
 - 👯 I’m looking to collaborate on Remote Presence, Virtual Care, AgTech, HIC, AI
 - 🤔 I’m looking for help with AI
 - 💬 Ask me about Blockchain, Cloud Computing and Cybersecurity.
-- 📫 How to reach me: [website](https://lukaswarce.com/) or  [email me](mailto:me@lukaswarce.com?subject=Hi%20from%20Github)
+- 📫 How to reach me: [website](https://lukaswarce.com/) or  [email me](mailto:lukaswarce@gmail.com?subject=Hi%20from%20Github)
 - 😄 Pronouns: Christian
 - ⚡ Fun fact: Videogames
