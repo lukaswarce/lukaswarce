@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/lukaswarce)
 [![Website](https://img.shields.io/badge/Website-Visit-00ADD8?style=for-the-badge&logo=google-chrome)](https://lukaswarce.github.io)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:lukaswarce@gmail.com)
-[![Blog](https://img.shields.io/badge/Blog-Read-FF5722?style=for-the-badge&logo=blogger)](https://www.lukaswarce.com/category/blog/)
+[![Blog](https://img.shields.io/badge/Blog-Read-FF5722?style=for-the-badge&logo=blogger)](https://lukaswarce.substack.com/)
 
 </div>
 
