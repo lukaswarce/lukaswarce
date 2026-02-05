@@ -13,15 +13,18 @@
 
 ## 👨‍💻 About Me
 
-Senior AI Engineer and Full Stack Developer with **15+ years of experience** building production-ready AI systems and scalable software solutions. Currently leading as **Lead Architect at Kardot**, pioneering Multi-Agent Systems (MAS) using the Model Context Protocol (MCP) for secure B2B fintech interoperability.
+Senior AI Engineer, Full Stack Developer, and Educator with **15+ years of experience** architecting production-ready AI systems and leading enterprise software solutions. Expert in building Multi-Agent Systems (MAS), deploying Large Language Models, and developing scalable platforms that handle 10,000+ concurrent transactions with 99.99% uptime.
 
-**🚀 Entrepreneur | 🤖 AI Architect | 💻 Full Stack Engineer**
+As an **entrepreneur**, I've launched multiple AI-powered products that have driven significant business growth and secured B2B partnerships across fintech and agtech sectors. As an **academic**, I've instructed hundreds of students in Cloud Computing, Artificial Intelligence, and Cybersecurity, achieving an 80% project success rate and mentoring future AWS-certified professionals.
 
-- 🏗️ **Currently Building:** High-performance AI platforms supporting 10,000+ concurrent transactions with 99.99% uptime
-- 🧠 **Specializing In:** Agentic Workflows, Multi-Agent Systems (MAS), LLMs (GPT-4, Claude, Gemini), Computer Vision, NLP, RAG
-- 🌐 **Tech Stack:** Python, TensorFlow, PyTorch, LangChain, React, Node.js, Go, AWS, GCP, Azure, Kubernetes
-- 📈 **Impact:** Reduced MVP-to-market lifecycle by 40%, secured 10+ B2B partnerships, drove 25% MoM growth
-- 🎓 **Education:** Master in AI | AWS Certified Solutions Architect | Cybersecurity Diploma
+**🚀 Entrepreneur | 🤖 AI Architect | 💻 Full Stack Engineer | 🎓 Professor**
+
+- 🏗️ **Technical Leadership:** Pioneering Multi-Agent Systems (MAS) using Model Context Protocol (MCP) for secure enterprise interoperability
+- 🧠 **AI Specialization:** Agentic Workflows, LLMs (GPT-4, Claude, Gemini), Computer Vision, NLP, RAG architectures
+- 🌐 **Engineering Stack:** Python, TensorFlow, PyTorch, LangChain, React, Node.js, Go, AWS, GCP, Azure, Kubernetes
+- 📈 **Proven Impact:** Reduced MVP-to-market lifecycle by 40%, secured 10+ B2B partnerships, drove 25% MoM growth
+- 🎓 **Academic Credentials:** Master in AI | AWS Certified Solutions Architect | Cybersecurity Diploma | Faculty Experience
+- 👨‍🏫 **Teaching:** Guided 25+ students to professional AWS certifications, developed curriculum for AI and Cloud Computing
 
 ---
 
