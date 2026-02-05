@@ -64,20 +64,6 @@ const techStack = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lukaswarce&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/lukaswarce)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lukaswarce&layout=compact&theme=radical&hide_border=true&langs_count=8)](https://github.com/lukaswarce)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=lukaswarce&theme=radical&hide_border=true)](https://github.com/lukaswarce)
-
-</div>
-
----
-
 ## 🤝 Let's Connect!
 
 I'm always open to:
